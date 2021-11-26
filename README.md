@@ -5,9 +5,12 @@ i am always ready to develop and improve my skills in what i like. i take great 
 
 i am also a student at [RTU MIREA](https://www.mirea.ru/). i learn a lot from my fellow thinkers, and i like the way cooperation and knowledge exchange between us goes.
 
-- 💻 any business proposal? do reach, [email](mailto:chekunkov-work@yandex.ru).
-- 🤝 always glad to meet new people.
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif?raw=true" width="483" height="360" />
 
+- 🏆 always try to choose the best.
+- 🤝 glad to meet new people.
+- 🗻 any obstacle is just an excuse to become stronger.
+- 💻 have business proposal? do reach, [email](mailto:chekunkov-work@yandex.ru).
 
 🛠 **languages and tools:**
 
@@ -29,6 +32,14 @@ i am also a student at [RTU MIREA](https://www.mirea.ru/). i learn a lot from my
 <a href="https://vk.com/coder_chekunkov">
   <img align="left" alt="My VK" width="22px" src="https://raw.githubusercontent.com/github/explore/418499da37ed2d07cff077560db9bfe299c8d7b8/topics/vk/vk.png" />
 </a>
-<a href="https://vk.com/coder_chekunkov">
+<a href="https://www.instagram.com/coder_chekunkov/">
   <img align="left" alt="My Instagram" width="22px"                src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" />
 </a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=coder-chekunkov.coder-chekunkov)
+
+if you have any questions, suggestions or advice, please contact me. i will be glad to any message.
+
+**thanks a lot for reading** <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/linux_rounded.gif" width="25" height="25" />
+
+
