@@ -23,5 +23,12 @@ i am also a student at [RTU MIREA](https://www.mirea.ru/). i learn a lot from my
 
 👀 **social networks and services:**
 
-
-
+<a href="https://t.me/cdr_chknkv">
+  <img align="left" alt="My Telegram" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"/>
+</a>
+<a href="https://vk.com/coder_chekunkov">
+  <img align="left" alt="My VK" width="22px" src="https://raw.githubusercontent.com/github/explore/418499da37ed2d07cff077560db9bfe299c8d7b8/topics/vk/vk.png" />
+</a>
+<a href="https://vk.com/coder_chekunkov">
+  <img align="left" alt="My Instagram" width="22px"                src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" />
+</a>
