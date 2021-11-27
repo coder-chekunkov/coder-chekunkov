@@ -5,11 +5,10 @@ i am always ready to develop and improve my skills in what i like. i take great 
 
 i am also a student at [RTU MIREA](https://www.mirea.ru/). i learn a lot from my fellow thinkers, and i like the way cooperation and knowledge exchange between us goes.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif?raw=true" width="483" height="360" />
+<img align="right" alt="GIF" src="https://github.com/coder-chekunkov/coder-chekunkov/blob/main/images/gif-profile-readme.md.gif?raw=true" width="483" height="360" />
 
 - 🏆 always try to choose the best.
 - 🤝 glad to meet new people.
-- 🗻 any obstacle is just an excuse to become stronger.
 - 💻 have business proposal? do reach, [email](mailto:chekunkov-work@yandex.ru).
 
 🛠 **languages and tools:**
@@ -40,6 +39,6 @@ i am also a student at [RTU MIREA](https://www.mirea.ru/). i learn a lot from my
 
 if you have any questions, suggestions or advice, please contact me. i will be glad to any message.
 
-**thanks a lot for reading** <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/linux_rounded.gif" width="25" height="25" />
+**thanks a lot for reading** <img src="https://github.com/coder-chekunkov/coder-chekunkov/blob/main/images/linux_rounded.gif" width="25" height="25" />
 
 
