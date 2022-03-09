@@ -5,7 +5,7 @@ i am always ready to develop and improve my skills in what i like. i take great 
 
 i am also a student at [RTU MIREA](https://www.mirea.ru/). i learn a lot from my fellow thinkers, and i like the way cooperation and knowledge exchange between us goes.
 
-<img align="right" alt="GIF" src="https://github.com/coder-chekunkov/coder-chekunkov/blob/main/images/gif-profile-readme.md.gif?raw=true" width="483" height="360" />
+<img align="right" alt="GIF" src="https://github.com/coder-chekunkov/coder-chekunkov/blob/main/images/gif-profile-readme.md.gif?raw=true" height="360" />
 
 - ❤ love what i do.
 - 🏆 always try to choose the best.
