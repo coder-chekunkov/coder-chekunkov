@@ -12,6 +12,8 @@ i am also a student at [RTU MIREA](https://www.mirea.ru/). i learn a lot from my
 - 🤝 glad to meet new people.
 - 💻 have business proposal? do reach, [email](mailto:chekunkov-work@yandex.ru).
 
+you can also get acquainted with my [works](https://github.com/coder-chekunkov/coder-chekunkov/tree/main/works), not included in this account.
+
 🛠 **languages and tools:**
 
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="22" height="22"></code>
