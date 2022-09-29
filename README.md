@@ -5,7 +5,7 @@ i am always ready to develop and improve my skills in what i like. i take great 
 
 i am also a student at [RTU MIREA](https://www.mirea.ru/). i learn a lot from my fellow thinkers, and i like the way cooperation and knowledge exchange between us goes.
 
-you can see my CV [here](https://github.com/coder-chekunkov/coder-chekunkov/blob/main/files/Curriculum%20Vitae%20-%20Chekunkov%20Alexandr%20(test).pdf).
+you can see my CV [here](https://github.com/coder-chekunkov/coder-chekunkov/blob/main/works/Curriculum%20Vitae%20-%20Chekunkov%20Alexandr.pdf).
 
 - ❤ love what i do.
 - 🏆 always try to choose the best.
