@@ -16,15 +16,13 @@ you can also get acquainted with my [works](https://github.com/coder-chekunkov/c
 
 🛠 **languages and tools:**
 
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" width="22" height="22"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="22" height="22"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="22" height="22"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="22" height="22"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="22" height="22"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" width="22" height="22"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png" width="22" height="22"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" width="22" height="22"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="22" height="22"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" width="28" height="28"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="28" height="28"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="28" height="28"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/44926f43f6a0d183b5965bebd1e77069ab00c26a/topics/git/git.png" width="28" height="28"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/44926f43f6a0d183b5965bebd1e77069ab00c26a/topics/terminal/terminal.png" width="28" height="28"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/caa262eeb858e81282d6f651d6eef1f8730b54ba/topics/intellij-idea/intellij-idea.png" width="28" height="28"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/44926f43f6a0d183b5965bebd1e77069ab00c26a/topics/android-studio/android-studio.png" width="28" height="28"></code>
 
 👀 **social networks and services:**
 
@@ -33,9 +31,6 @@ you can also get acquainted with my [works](https://github.com/coder-chekunkov/c
 </a>
 <a href="https://vk.com/coder_chekunkov">
   <img align="left" alt="My VK" width="22px" src="https://raw.githubusercontent.com/github/explore/418499da37ed2d07cff077560db9bfe299c8d7b8/topics/vk/vk.png" />
-</a>
-<a href="https://www.instagram.com/coder_chekunkov/">
-  <img align="left" alt="My Instagram" width="22px"                src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=coder-chekunkov.coder-chekunkov)
