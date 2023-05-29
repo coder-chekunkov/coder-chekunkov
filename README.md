@@ -31,11 +31,10 @@ you can also get acquainted with my [works](https://github.com/coder-chekunkov/c
 </a>
 <a href="https://vk.com/coder_chekunkov">
   <img align="left" alt="My VK" width="22px" src="https://raw.githubusercontent.com/github/explore/418499da37ed2d07cff077560db9bfe299c8d7b8/topics/vk/vk.png" />
+  </br>
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=coder-chekunkov.coder-chekunkov)
-
-if you have any questions, suggestions or advice, please contact me. i will be glad to any message.
+</br> if you have any questions, suggestions or advice, please contact me. i will be glad to any message.
 
 **thanks a lot for reading** <img src="https://github.com/coder-chekunkov/coder-chekunkov/blob/main/images/gif_for_profile.gif" width="35" height="25" />
 
