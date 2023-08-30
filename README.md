@@ -7,18 +7,18 @@ i am also a student at [RTU MIREA](https://www.mirea.ru/). i learn a lot from my
 
 you can see my CV [here](https://github.com/coder-chekunkov/coder-chekunkov/blob/main/works/Curriculum%20Vitae%20-%20Chekunkov%20Alexandr.pdf).
 
-- ❤ love what i do.
-- 🏆 always try to choose the best.
-- 🤝 glad to meet new people.
-- 💻 have business proposal? do reach, [email](mailto:chekunkov-work@yandex.ru).
+- love what i do.
+- always try to choose the best.
+- glad to meet new people.
+- have business proposal? do reach, [email](mailto:chekunkov-work@yandex.ru).
 
-🛠 **languages and tools**
+**languages and tools**
 
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" width="28" height="28"></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="28" height="28"></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/44926f43f6a0d183b5965bebd1e77069ab00c26a/topics/git/git.png" width="28" height="28"></code>
 
-👀 **social networks and services**
+**social networks and services**
 
 if you have any questions, suggestions or advice, please contact me by writing in [telegram](https://t.me/cdr_chknkv). i will be glad to any message.
 
