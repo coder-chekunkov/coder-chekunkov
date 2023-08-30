@@ -12,29 +12,15 @@ you can see my CV [here](https://github.com/coder-chekunkov/coder-chekunkov/blob
 - 🤝 glad to meet new people.
 - 💻 have business proposal? do reach, [email](mailto:chekunkov-work@yandex.ru).
 
-you can also get acquainted with my [works](https://github.com/coder-chekunkov/coder-chekunkov/tree/main/works), not included in this account.
-
-🛠 **languages and tools:**
+🛠 **languages and tools**
 
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" width="28" height="28"></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="28" height="28"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="28" height="28"></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/44926f43f6a0d183b5965bebd1e77069ab00c26a/topics/git/git.png" width="28" height="28"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/44926f43f6a0d183b5965bebd1e77069ab00c26a/topics/terminal/terminal.png" width="28" height="28"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/caa262eeb858e81282d6f651d6eef1f8730b54ba/topics/intellij-idea/intellij-idea.png" width="28" height="28"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/44926f43f6a0d183b5965bebd1e77069ab00c26a/topics/android-studio/android-studio.png" width="28" height="28"></code>
 
-👀 **social networks and services:**
+👀 **social networks and services**
 
-<a href="https://t.me/cdr_chknkv">
-  <img align="left" alt="My Telegram" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"/>
-</a>
-<a href="https://vk.com/coder_chekunkov">
-  <img align="left" alt="My VK" width="22px" src="https://raw.githubusercontent.com/github/explore/418499da37ed2d07cff077560db9bfe299c8d7b8/topics/vk/vk.png" />
-  </br>
-</a>
-
-</br> if you have any questions, suggestions or advice, please contact me. i will be glad to any message.
+if you have any questions, suggestions or advice, please contact me by writing in [telegram](https://t.me/cdr_chknkv). i will be glad to any message.
 
 **thanks a lot for reading** <img src="https://github.com/coder-chekunkov/coder-chekunkov/blob/main/images/gif_for_profile.gif" width="35" height="25" />
 
