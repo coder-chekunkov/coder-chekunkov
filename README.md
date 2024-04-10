@@ -25,7 +25,7 @@ you can see my CV [here](https://github.com/coder-chekunkov/coder-chekunkov/blob
 
 **social networks and services**
 
-if you have any questions, suggestions or advice, please contact me by writing in [telegram](https://t.me/cdr_work). i will be glad to any message.
+if you have any questions, suggestions or advice, please contact me by writing in [telegram](https://t.me/chekunkov_a_v_work). i will be glad to any message.
 
 **thanks a lot for reading**
 
