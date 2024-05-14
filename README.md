@@ -15,13 +15,15 @@ you can see my CV [here](https://github.com/coder-chekunkov/coder-chekunkov/blob
 **languages and tools**
 
 - kotlin, java
-- kotlin coroutines, kotlin flows
 - android sdk
 - jetpack, dagger 2, retrofit 2, room
-- junit, espresso, robolectric
+- kotlin coroutines, kotlin flows
+- mvi, mvvm, mvp
+- clean Architecture, kiss, dry, yagni
+- junit, mockk, truth
+- network technologies
 - jira, bitbucket, confluence
 - google services, firebase, sqlite, git
-- mvvm, solid, clean architecture
 
 **social networks and services**
 
