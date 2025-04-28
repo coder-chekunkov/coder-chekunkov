@@ -7,7 +7,7 @@ i graduated from [RTU MIREA](https://www.mirea.ru/), worked in large russian com
 
 you can see my CV here - [eng](https://github.com/coder-chekunkov/coder-chekunkov/blob/main/CV%20-%20ENG.pdf) & [ru](https://github.com/coder-chekunkov/coder-chekunkov/blob/main/CV%20-%20RU.pdf)
 
-**languages and tools**
+**core skills**
 
 - kotlin, java
 - android sdk
