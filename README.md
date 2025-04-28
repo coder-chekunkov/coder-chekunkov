@@ -5,7 +5,7 @@ i am always ready to develop and improve my skills in what i like. i take great 
 
 i graduated from [RTU MIREA](https://www.mirea.ru/), worked in large russian companies, learned a lot from fellow thinkers, senior colleagues and mentors.
 
-you can see my CV [here](https://github.com/coder-chekunkov/coder-chekunkov/blob/main/%5B01.01.2025%5D%20-%20CV.pdf).
+you can see my CV here - [ENG](github.com/coder-chekunkov/coder-chekunkov/blob/main/CV - ENG.pdf) & [RU](github.com/coder-chekunkov/coder-chekunkov/blob/main/CV - RU.pdf).
 
 **languages and tools**
 
